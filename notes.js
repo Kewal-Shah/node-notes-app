@@ -1,9 +1,6 @@
 const fs = require("fs");
 const chalk = require("chalk");
 
-
-
-
 const getNotes = () => notes;
 
 const addNote = (title, body) => {
