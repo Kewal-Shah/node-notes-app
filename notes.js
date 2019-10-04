@@ -1,6 +1,6 @@
 const fs = require("fs");
 const chalk = require("chalk");
-
+/* this has been added to check newly created branch*/
 const getNotes = () => notes;
 
 const addNote = (title, body) => {
